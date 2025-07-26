@@ -1,0 +1,15 @@
+The Student Grade Tracker is a Java console-based application developed as part of the CodeAlpha Internship. It allows users to input student names and their letter grades (e.g., A, B+, C-), automatically converts them to numeric values, and stores the data using an ArrayList.
+
+The program calculates and displays:
+Average grade
+Highest grade and corresponding student
+Lowest grade and corresponding student
+A full student performance report
+
+This project reinforces concepts such as:
+
+Object-Oriented Programming (OOP)
+Conditional logic and data validation
+ArrayLists and class structures
+Console input/output handling in Java
+
